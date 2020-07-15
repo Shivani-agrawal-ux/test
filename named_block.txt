@@ -1,0 +1,16 @@
+previous_hash:Genesis_BLOCK
+Buyer_name:anshul
+Seller_name:shivani
+Buyer_father_name :rakesh
+Seller_father_name:rishav
+Buyer_address:gfht
+Seller_address:indore
+Buyer_Id:143
+Seller_Id:113
+Prop_rec_no:123468
+Prop_Loc:jabalpur
+Prop_area:100
+E_stamp_no:41
+E_stamp_Issue_date:4-03-2020
+anshul:
+shivani:
